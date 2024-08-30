@@ -1,4 +1,4 @@
-## Gideon Clark's First CS193 Homework
+# Gideon Clark's First CS193 Homework
 
 - There is only one class per week
 - The professors are very nice
